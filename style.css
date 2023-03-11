@@ -1,0 +1,66 @@
+.first1{
+    color: whitesmoke;
+    font-weight: lighter;
+    font-family: Almerian Script Typeface;
+    font-style: italic;
+    text-align: center;
+    text-transform: capitalize;
+}
+.indent1{
+    color: whitesmoke;
+    font-weight: lighter;
+    font-family: Almerian Script Typeface;
+    font-style: italic;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+}
+.first2{
+    color: whitesmoke;
+    font-weight: lighter;
+    font-family: Almerian Script Typeface;
+    font-style: italic;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration: underline;
+}
+.input1{
+    color: black;
+    font-family: Almerian Script Typeface;
+    width: 350px;
+    font-size: larger;
+    font-style: italic;
+    margin-left: 255px;
+}
+
+.input2{
+   
+    color: black;
+    font-family: Almerian Script Typeface;
+    width: 350px;
+    font-size: larger; 
+    font-style: italic;
+    margin-right: 0px;
+}
+.label1{
+    color: whitesmoke;
+    font-weight: lighter;
+    font-family: Almerian Script Typeface;
+    font-style: italic;
+    text-transform: capitalize;
+    margin-left:550px; 
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
